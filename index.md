@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xiongjiaji
+title: All Posts
 tagline: 
 ---
 {% include JB/setup %}
